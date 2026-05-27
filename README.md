@@ -22,7 +22,10 @@ Root cause: Loose jumper wires. Fixed hardware, not software.
 Ran to my evaporative cooler. Readings: 72% RH, 30.2°C → LED blinked.  
 Proof: The system responds to real-world changes in <2 seconds.
 
+**Code:** [ARD_v1.0.0_DHT_AlertLED.ino](https://github.com/Shanmukhhs/Aurangabad-logger/blob/main/ARD_v1.0.0_DHT_AlertLED.ino)
+**Hardware:** [Setup+Working demo](https://drive.google.com/drive/folders/1ykJKS3R3YvipFMVnKHFwoiYxBhD6SUM5?usp=drive_link)
+
 **Next:**
 v1.1.0 will add 16*2 LCD for live readings.
 ---
-*Mapping Aurangabad, one overheated bedroom at a time.*
+
